@@ -2,7 +2,7 @@
 name = "mnist-mlops"
 version = "0.1.0"
 description = ""
-authors = ["Mohamed-Ahmed <mohamedahmedmustafa22@gmail.com>"]
+authors = ["MohamedAhmedMustafa <mohamedahmedmustafa22@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
